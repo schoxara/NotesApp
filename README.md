@@ -1,2 +1,2 @@
-# Stadiums
-Stadiums - Map - List - Croatia
+# Notes
+Notes - MQTT - HTTP - Android
