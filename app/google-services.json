@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "238307904370",
+    "firebase_url": "https://movielecious2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "movielecious2",
+    "storage_bucket": "movielecious2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238307904370:android:80945c529f6ff5ea09ebeb",
+        "android_client_info": {
+          "package_name": "ferit.amaricic.hr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238307904370-vpsr9756dfadjklfekr0573bdh7lqg9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAedOjTqxKAHmk5Gt4-Q1TTmToVrleAGG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238307904370-vpsr9756dfadjklfekr0573bdh7lqg9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

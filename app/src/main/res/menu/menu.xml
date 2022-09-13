@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_all_stadiums"
+        android:enabled="true"
+        android:icon="@drawable/list_red"
+        android:title="ALL NOTES"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_favorites"
+        android:enabled="true"
+        android:icon="@drawable/personal_red"
+        android:title="MY NOTES"
+        app:showAsAction="ifRoom" />
+
+</menu>

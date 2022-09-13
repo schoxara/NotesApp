@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Notes App</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Name</string>
+
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+
+    <string name="allStadiums">All Notes</string>
+    <string name="mapTitle">Map</string>
+    <string name="notesDetailsTitle">Notes Details</string>
+    <string name="notesDetailsDelete">Delete</string>
+    <string name="signOut">Sign Out</string>
+    <string name="favorites">My Notes</string>
+    <string name="no_favorites">No favorite stadiums :(</string>
+    <string name="empty_list">Empty list :(</string>
+
+    <string name="addNote">Add</string>
+
+    <string name="sort_by_cap_down">Capacity DESC</string>
+    <string name="edit_item">Edit</string>
+
+</resources>
